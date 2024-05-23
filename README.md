@@ -4,7 +4,7 @@
 
 🌱 I am currently learning Power BI for business intelligence and data science and python language fundamentals for data analysis and data science (With ChatGPT)
  
-⚡ Fun fact: I'm a physiotherapist
+
 
 <!---
 VSviviane/VSviviane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
