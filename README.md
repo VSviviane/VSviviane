@@ -1,12 +1,10 @@
-👋 Hello, I'm @VSviviane
+👋 Olá, sou @VSviviane
 
- 👀 I'm interested in data science and dashboard
+ 👀 Trabalho como Fisioterapeuta no atendimento assistencial em  home care.
+ 
+Estou envolvida nas área de  pesquisa com paciente pós  AVC  e   tecnologia assistiva. 
 
-🌱 I am currently learning Power BI for business intelligence and data science and python language fundamentals for data analysis and data science (With ChatGPT)
+🌱 Atualmente estou aprimorando conhecimentos de  Power BI para business intelligence,  ciência de dados e ciências de dados e saúde. 
  
 
 
-<!---
-VSviviane/VSviviane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
