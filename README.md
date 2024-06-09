@@ -1,4 +1,4 @@
-### Hi there 👋, Olá 👋, Eu sou a  Viviane
+###  Olá 👋, Eu sou a  Viviane
 #### 🌱Estudo ciências de dados
 
 - 🌱 I’m currently learning estou aprendendo Python e Power BI 
