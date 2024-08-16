@@ -1,6 +1,4 @@
 ### Hello 👋,
-###I'm Viviane
-#### 🌱 Participation in the ONE program - Oracle Next Education and Data Analysis Program | My first steps in Python!
-
-
+### Eu sou a viviane
+#### 🌱 Participo dos cursos : Programa Oracle Next Education e Análise de Dados no PrograMaria| Meus primeiros passos em Python!
 
