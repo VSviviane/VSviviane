@@ -1,8 +1,6 @@
 ### Hello 👋,
 ###I'm Viviane
-#### 🌱I study data science for healthcare
-####  Participant of the ONE program - Oracle Next Education and Data Analysis program | My First Steps in Python!
-
+#### 🌱 Participation in the ONE program - Oracle Next Education and Data Analysis Program | My first steps in Python!
 
 
 
