@@ -1,5 +1,7 @@
-### Hello 👋,
-### Eu sou a viviane, iniciante em programação e análise de dados.
-#### 🌱 Participo dos cursos : Programa Oracle Next Education e Fundamentos de Linguagem Python para Análise de Dados e Data Science na DSA|  Com intuito de aprimorar meus conhecimentos em biotecnologia e análise de dados para saúde. 
+### 👋 Olá! Eu sou a Viviane,
+Sou Fisioterapeuta. Tenho interesse em  pesquisa na área de neuroengenharia e biotecnologia.
 
- 
+#### 🌱 Participo dos cursos: 
+Programa Oracle Next Education na Alura e prograMaria especialização Back-End. 
+Fundamentos de Linguagem Python para Análise de Dados e Inteligência artificial. 
+
