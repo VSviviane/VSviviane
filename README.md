@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Fisioterapeuta. Tenho interesse em pesquisa na área de neuroengenharia e biotecnologia.
+Sou Fisioterapeuta, pós-graduanda  em Fisioterapia em terapia intensiva neurológica adulta. Tenho interesse em pesquisa na área de neuroengenharia e biotecnologia.
 Participo do Programa Oracle Next Education na Alura e prograMaria especialização Back-End. 
 Fundamentos de Linguagem Python para Análise de Dados e Inteligência artificial. 
 
