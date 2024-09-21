@@ -3,7 +3,7 @@ Sou Fisioterapeuta, pós-graduanda  em Fisioterapia em terapia intensiva neurol�
 Participo do Programa Oracle Next Education na Alura e prograMaria especialização Back-End. 
 Fundamentos de Linguagem Python para Análise de Dados e Inteligência artificial. 
 
-Conhecimento básico em Front-end com JavaScript, HTML ,CSS.Possuo familiaaridade com powerBIa e python.
+Conhecimento básico em Front-end com JavaScript, HTML ,CSS.Possuo familiaridade com powerBIa e python.
 Na trilha de especialização back-end com Java e Javascript. 
 
 
